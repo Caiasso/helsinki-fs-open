@@ -8,9 +8,7 @@ var animals = [
 ];
 
 /* Functional Programming Way */
-var names = animals.map(function (animal) {
-  return animal.name + " is a " + animal.species;
-});
+var names = animals.map((animal) => animal.name + " is a " + animal.species);
 /* Functional Programming Way */
 console.log(names);
 
