@@ -74,7 +74,7 @@ const App = () => {
       <form onSubmit={addPerson}>
         <Input
           handler={handleNameChange}
-          text={"number:"}
+          text={"name:"}
           value={newName}
         ></Input>
         <Input

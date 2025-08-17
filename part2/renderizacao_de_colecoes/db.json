@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML é fácil",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "O navegador só pode executar JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET e POST são os métodos mais importantes do protocolo HTTP",
+      "important": true
+    }
+  ]
+}
